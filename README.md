@@ -1,17 +1,22 @@
-Arthiq
-Economic Intelligence, Mapped. Explained. Actionable.
-What Arthiq Is
-Arthiq is a real-time economic and market intelligence platform that turns raw financial, macroeconomic, and capital-flow data into clear, explainable insights—delivered through an interactive map and signal-driven analysis engine.
-This is not a charting tool.
-This is not a generic “AI finance app”.
-Arthiq answers one hard question:
-What is happening in the economy right now, why is it happening, and what should be done about it?
-Why Arthiq Exists
-Markets today suffer from three failures:
-Too much data, no interpretation
-Lagging indicators that react after damage is done
-Black-box AI with zero accountability
-Arthiq fixes this by combining:
-Deterministic financial logic
-Transparent signal computation
-LLMs used only for explanation, not fake prediction
+section,content
+project_name,Arthiq
+tagline,"Economic Intelligence, Mapped. Explained. Actionable."
+overview,"Arthiq is a real-time economic and market intelligence platform that converts financial, macroeconomic, and capital-flow data into explainable insights using maps and signal-driven analysis."
+problem_statement,"Markets suffer from data overload, lagging indicators, and black-box AI. Arthiq solves this with transparent signals and explainable intelligence."
+core_principle,"Data → Signal → Insight → Action"
+feature_map,"Interactive geographic map showing capital flows, sector strength, volatility clusters, and regional momentum."
+feature_signals,"Signal engine computing price momentum, volume anomalies, relative strength, correlations, and macro influence."
+feature_ai,"LLMs used only for explanation of signals, not for prediction or black-box decision making."
+feature_alerts,"Context-aware alerts for capital rotation, regime shifts, risk escalation, and macro shocks."
+architecture_philosophy,"Modular, extensible, traceable architecture with no import hacks or monolithic AI blobs."
+backend_stack,"FastAPI, Python, custom ingestion, analysis, retrieval, and AI explanation modules."
+frontend_stack,"React / Next.js with interactive map, insight panels, and alert windows."
+project_structure_backend,"ingestion, analysis, retrieval, ai, main FastAPI entry."
+project_structure_frontend,"components, pages, services, styles."
+not_a_trading_bot,"True"
+not_hft,"True"
+not_prediction_engine,"True"
+status,"Core backend complete, signal engine live, interactive map active, explainable insights running."
+roadmap,"Macro datasets, cross-asset intelligence, scenario simulation, personalized decision layers."
+vision,"Become the operating system for economic awareness across investors, policymakers, businesses, and individuals."
+positioning_statement,"Arthiq does not predict the future. It makes the present impossible to ignore."
