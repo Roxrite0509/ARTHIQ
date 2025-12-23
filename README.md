@@ -1,22 +1,48 @@
-section,content
-project_name,Arthiq
-tagline,"Economic Intelligence, Mapped. Explained. Actionable."
-overview,"Arthiq is a real-time economic and market intelligence platform that converts financial, macroeconomic, and capital-flow data into explainable insights using maps and signal-driven analysis."
-problem_statement,"Markets suffer from data overload, lagging indicators, and black-box AI. Arthiq solves this with transparent signals and explainable intelligence."
-core_principle,"Data → Signal → Insight → Action"
-feature_map,"Interactive geographic map showing capital flows, sector strength, volatility clusters, and regional momentum."
-feature_signals,"Signal engine computing price momentum, volume anomalies, relative strength, correlations, and macroeconomic influence."
-feature_ai,"LLMs are used only for explanation and interpretation of signals, not for prediction or black-box decision making."
-feature_alerts,"Context-aware alerts for capital rotation, regime shifts, risk escalation, and macroeconomic shocks."
-architecture_philosophy,"Modular, extensible, and traceable architecture with no import hacks or monolithic AI systems."
-backend_stack,"FastAPI, Python, custom ingestion pipelines, analysis engines, retrieval layers, and AI explanation modules."
-frontend_stack,"React / Next.js with interactive maps, insight panels, and alert interfaces."
-project_structure_backend,"ingestion, analysis, retrieval, ai, and main FastAPI entry point."
-project_structure_frontend,"components, pages, services, and styles."
-not_a_trading_bot,"True"
-not_hft,"True"
-not_prediction_engine,"True"
-current_status,"Core backend complete, signal engine live, interactive map active, and explainable insights running."
-roadmap,"Macro datasets, cross-asset intelligence, scenario simulation, and personalized decision layers."
-vision,"Become the operating system for economic awareness across investors, policymakers, businesses, and individuals."
-positioning_statement,"Arthiq does not predict the future. It makes the present impossible to ignore."
+Arthiq
+Economic Intelligence, Mapped. Explained. Actionable.
+What Arthiq Is
+Arthiq is a real-time economic and market intelligence platform that transforms financial, macroeconomic, and capital-flow data into clear, explainable insights.
+Instead of dumping charts or opaque AI predictions, Arthiq answers:
+What is happening right now, why it is happening, and what it means.
+Why Arthiq Exists
+Modern markets fail in three ways:
+Data overload without interpretation
+Lagging indicators that react after damage is done
+Black-box AI with no accountability
+Arthiq fixes this by combining deterministic market logic with explainable AI interpretation — not fake prediction engines.
+Core Principle
+Data → Signal → Insight → Action
+Every output in Arthiq can be traced back to:
+Raw data
+Computed signals
+Clear reasoning
+Nothing is hidden. Nothing is hand-waved.
+Key Features
+🌍 Interactive Economic Intelligence Map
+Visualizes:
+Capital inflows and outflows
+Sector strength and weakness
+Volatility and stress clusters
+Regional momentum shifts
+All values are dynamically computed — no static heatmaps.
+📈 Market Signal Engine
+Arthiq computes:
+Price momentum and trend shifts
+Volume and liquidity anomalies
+Relative strength across regions and sectors
+Correlation breakdowns
+Macro → market influence mapping
+Signals are deterministic, auditable, and explainable.
+🧠 Explainable AI Insights
+LLMs are used strictly for:
+Interpreting signals
+Explaining causality
+Translating data into human reasoning
+❌ No prediction hallucinations
+❌ No black-box decision making
+🚨 Context-Aware Alerts
+Capital rotation detection
+Regime and sentiment shifts
+Risk escalation warnings
+Macro shock propagation
+Every alert includes context and reasoning, not just numbers.
